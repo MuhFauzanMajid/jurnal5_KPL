@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         penjumlahan jumlah = new penjumlahan();
-        jumlah.jumlahTigaAngka(13,02,22);
+        jumlah.jumlahTigaAngka<double>(13.00,02.00,22.00);
     }
 }
 
